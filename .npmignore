@@ -1,0 +1,17 @@
+TestApp
+SampleApp
+.gitlab
+testutils
+
+.gitlab-ci.yml
+bitrise.yml
+.huskyrc
+.gitattributes
+
+# Tests
+#
+js/__tests__
+android/src/test
+ios/OnfidoSdkTests
+
+CONTRIBUTING.md
