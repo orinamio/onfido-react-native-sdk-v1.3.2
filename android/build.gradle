@@ -92,10 +92,7 @@ repositories {
     google()
     jcenter()
 
-    maven {
-        url "https://dl.bintray.com/onfido/maven"
-        // credential_place_holder
-    }
+    mavenCentral()
 }
 
 dependencies {
